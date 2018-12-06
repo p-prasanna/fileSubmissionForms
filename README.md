@@ -2,7 +2,7 @@
 
 1) create a folder named "uploads" before getting started.
 
-2) execute the following piece of query in your database to create a folder names "resumes"
+2) execute the following piece of query in your database to create a folder named "resumes"
 
 CREATE TABLE `resumes` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
